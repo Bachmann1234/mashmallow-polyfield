@@ -2,6 +2,10 @@
 Marshmallow-Polyfield
 =====================
 
+.. image:: https://assets.piptrends.com/get-last-month-downloads-badge/marshmallow-polyfield.svg
+    :alt: marshmallow-polyfield Downloads Last Month by pip Trends
+    :target: https://piptrends.com/package/marshmallow-polyfield
+
 .. image:: https://travis-ci.com/Bachmann1234/marshmallow-polyfield.svg?branch=master
     :target: https://travis-ci.com/Bachmann1234/marshmallow-polyfield
     :alt: Build Status
